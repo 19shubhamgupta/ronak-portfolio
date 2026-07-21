@@ -34,9 +34,7 @@ const skillsData = [
   { name: "Node.js", icon: SiNodedotjs, percentage: 85, color: "#339933" },
   { name: "Express.js", icon: SiExpress, percentage: 85, color: "#ffffff" },
   { name: "MongoDB", icon: SiMongodb, percentage: 85, color: "#47A248" },
-  // Tools & Infrastructure
-  { name: "Kafka", icon: SiApachekafka, percentage: 80, color: "#231F20" },
-  { name: "Docker", icon: SiDocker, percentage: 70, color: "#2496ED" },
+  
 ];
 
 const SkillBar = ({
